@@ -1,0 +1,1 @@
+print("Hello World 歡迎報名夜間Java班!")
